@@ -3,7 +3,7 @@
 
 <h3 align="center">
   Welcome to Saeed Alsayed's profile!
-<!--   <img src="https://media.tenor.com/4BkYeeOwEUgAAAAC/waving-wave.gif" width="28"> -->
+  <img src="https://media.tenor.com/4BkYeeOwEUgAAAAC/waving-wave.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
