@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="[https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif)">
+<img width="250" align="right" src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif">
 
 <h3 align="center">
   Welcome to Saeed Alsayed's profile!
